@@ -1,6 +1,6 @@
 
 # Source Code for "MaDis-Stereo"  
-*Under Review at IEEE Access*
+*Accepted at IEEE Access*
 
 ## Overview  
 This repository contains the source code implementation for our research paper, currently under review at IEEE Access. 
